@@ -1,0 +1,18 @@
+[
+    {
+        "source": -1001679008146,
+        "destinations": [
+            -1001963533302
+        ],
+        "prefix": "/m",
+        "suffix": ""
+    }
+    {
+        "source": -1001760503299,
+        "destinations": [
+            -1001963533302
+        ],
+        "prefix": "/m",
+        "suffix": ""
+    }
+]
